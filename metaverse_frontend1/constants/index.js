@@ -3,7 +3,8 @@ export const exploreWorlds = [
     id: 'world-1',
     imgUrl: '/virtual_assistance.jpg',
     title: 'Virtual Assistant',
-    href:'https://virtual-shahiyogi-vr.vercel.app/'
+    // href:'https://virtual-shahiyogi-vr.vercel.app/
+    href:'https://virtual-shahiyogi-vr.vercel.app/ '
   },
   {
     id: 'world-2',
