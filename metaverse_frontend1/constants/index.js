@@ -3,20 +3,20 @@ export const exploreWorlds = [
     id: 'world-1',
     imgUrl: '/virtual_assistance.jpg',
     title: 'Virtual Assistant',
-    href:'http://localhost:5173/'
+    href:'https://virtual-shahiyogi-vr.vercel.app/'
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
     title: 'Meta Game',
-    href:'http://localhost:5174/#r=RVZU7'
+    href:'https://v-irtual-sahiyogi-meta-game.vercel.app/'
 
   },
   {
     id: 'world-3',
     imgUrl: '/dragon.jpg',
     title: 'Meta Dragon',
-    href:'http://localhost:5175/'
+    href:'https://virtual-sahiyogi-meta-dragon2.vercel.app/'
 
   },
   {
@@ -24,14 +24,14 @@ export const exploreWorlds = [
     imgUrl: '/planet-04.png',
 
     title: 'Paradise Island',
-    href:'http://localhost:5173/'
+    href:'https://virtual-shahiyogi-vr.vercel.app/'
 
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
     title: 'Hawkins Labs',
-    href:'http://localhost:5175/'
+    href:'https://virtual-sahiyogi-meta-dragon2.vercel.app/'
 
   },
 ];
